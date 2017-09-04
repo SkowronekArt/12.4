@@ -16,4 +16,4 @@ function getJoke() {
   xhr.send();
 }
 
-paragraph.innerHTML = response.value.joke;
+getJoke();
