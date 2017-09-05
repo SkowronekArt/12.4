@@ -3,7 +3,7 @@ var button = document.getElementById('get-joke');
 
 getJoke();
 
-button.addEventListener('click', getJoke();
+button.addEventListener('click', getJoke());
 
 var paragraph = document.getElementById('joke');
 
